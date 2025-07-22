@@ -73,9 +73,7 @@ All metrics are estimated for three usage scales: *100, 10,000, and 1,000,000 ru
 
 ---
 
-## Contributing
-
-We welcome contributions that help make code greener and more efficient for everyone. Please open issues or pull requests.
+## [Simulation](https://gh.io/ecomode)
 
 ---
 
