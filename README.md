@@ -45,7 +45,7 @@ All metrics are estimated for three usage scales: *100, 10,000, and 1,000,000 ru
 
 ---
 
-## 🏗Tech Stack
+## Tech Stack
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Charts**: Recharts
@@ -54,7 +54,7 @@ All metrics are estimated for three usage scales: *100, 10,000, and 1,000,000 ru
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repo:**  
    ```bash
