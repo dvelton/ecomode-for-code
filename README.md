@@ -1,6 +1,6 @@
 # EcoMode for Code 🌱 
 
-**EcoMode for Code** is a web application that analyzes GitHub repositories to suggest energy-efficient code refactorings. Its mission is to help developers reduce their code’s environmental impact—lowering carbon footprint, water usage, energy consumption, and cloud costs—by surfacing actionable, eco-friendly alternatives for inefficient patterns.
+**EcoMode for Code** is a web application that analyzes GitHub repositories to suggest energy-efficient code refactorings. Streamline compute and code’s environmental impact—lowering carbon footprint, water usage, energy consumption, and cloud costs—by surfacing actionable, eco-friendly alternatives for inefficient patterns.
 
 ---
 
